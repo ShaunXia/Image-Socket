@@ -23,6 +23,7 @@ int main()
     int count=0;
     while(1)
     {
+        //error heer
         char t[256];
         len=0;
         tcp::socket socket(io_service);
