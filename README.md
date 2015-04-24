@@ -1,4 +1,4 @@
 socketJPG
 =========
-NETWORK ： C++ with OpenCV Lib On PC To Recieve Picture From Android Camera （java app）
+C++ with OpenCV Lib On Mac To Recieve Images From Android Camera （java app）
 C++ & Java
